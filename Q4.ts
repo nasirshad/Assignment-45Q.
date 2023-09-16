@@ -1,5 +1,4 @@
-// var nam : string = "MY Name Is Nasir Shad";
-//console.log(nam);
+
 
 
 //Question No.4
@@ -7,4 +6,5 @@
 //Albert Einstein once said, “A person who never made a mistake never tried anything new.”
 let author:string="'Allama Muhammad Iqbal'"
 let quote:string="'Nations are born in the hearts of poets,they prosper and die in the hands of politicians.'"
-console.log(author, ", Once Said, ", quote);
+console.log(author, ", Once Said, ", quote);// var nam : string = "MY Name Is Nasir Shad";
+//console.log(nam);
