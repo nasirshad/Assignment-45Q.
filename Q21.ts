@@ -1,5 +1,5 @@
-let sq : string ="My Name Is Nasir Shad,I Have Started Leraning TypeScript";
-console.log(sq);
+// let sq : string ="My Name Is Nasir Shad,I Have Started Leraning TypeScript";
+// console.log(sq);
 
 // Question No.21
 // Conditional Tests: Write a series of conditional tests. Print a statement describing each test and your prediction for the results of each test. Your code should look something like this:
